@@ -25,7 +25,7 @@ class Employee {
     }
 }
 
-public class EmployeeManagementSystem {
+class EmployeeManagementSystem {
     private static final String FILE_NAME = "employees.txt";
 
     public static void addEmployee(Employee emp) {

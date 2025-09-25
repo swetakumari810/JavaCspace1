@@ -19,7 +19,7 @@ class Student implements Serializable {
     }
 }
 
-public class StudentSerialization {
+class program2 {
     public static void main(String[] args) {
         String filename = "student.ser";
 
